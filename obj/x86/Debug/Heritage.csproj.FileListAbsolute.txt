@@ -1,0 +1,4 @@
+U:\Tp\Slam4\Heritage\Heritage\bin\Debug\Heritage.exe
+U:\Tp\Slam4\Heritage\Heritage\bin\Debug\Heritage.pdb
+U:\Tp\Slam4\Heritage\Heritage\obj\x86\Debug\Heritage.exe
+U:\Tp\Slam4\Heritage\Heritage\obj\x86\Debug\Heritage.pdb
